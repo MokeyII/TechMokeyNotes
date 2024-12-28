@@ -1,0 +1,5 @@
+# Security Information and Event Management
+The security information and event management (SIEM) “an approach to security management that combines SIM (security information management) and SEM (security event management) functions into one security management system.”
+
+# How does it work
+SIEM technology gathers security-related information from servers,  end-user devices, networking equipment, and applications, as well as  security devices. Security event and information management (SIEM) solutions sort the data into categories and when a potential security issue is identified, can send an alert or respond in another manner,  according to pre-set policies. The aggregation and analysis of data gathered throughout the network enable security teams to see the big picture, identify breaches or incidents in the early stages, and respond before damage is done.
